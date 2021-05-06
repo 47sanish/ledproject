@@ -1,0 +1,1 @@
+print("nikita i love you")
